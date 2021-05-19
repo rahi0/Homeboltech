@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "923256134847",
+    "firebase_url": "https://homboltapp.firebaseio.com",
+    "project_id": "homboltapp",
+    "storage_bucket": "homboltapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923256134847:android:404a18efce3b42cd167a0a",
+        "android_client_info": {
+          "package_name": "com.example.homeboltech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923256134847-6ntl15vrtp87mudnuo4cd3act295vep1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homeboltech",
+            "certificate_hash": "77d5587c0ef824a7a1eacfb9016a6c9ad58769f9"
+          }
+        },
+        {
+          "client_id": "923256134847-g0hpf2n9u72k0fej0jth6gj1ecnksget.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVim0wxbpMndGDO_PmiTU_H6rZ4zBlsAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923256134847-g0hpf2n9u72k0fej0jth6gj1ecnksget.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
